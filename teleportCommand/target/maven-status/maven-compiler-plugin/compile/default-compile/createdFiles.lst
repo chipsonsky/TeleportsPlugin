@@ -1,0 +1,9 @@
+chipsonsky\randomTeleport\TeleportCommand.class
+chipsonsky\randomTeleport\manager\SpawnTeleportManager.class
+chipsonsky\randomTeleport\command\RtpCommand.class
+chipsonsky\randomTeleport\command\SpawnCommand$1.class
+chipsonsky\randomTeleport\command\DeluxeCommand.class
+chipsonsky\randomTeleport\command\RtpCommand$1.class
+chipsonsky\randomTeleport\manager\RtpManager.class
+chipsonsky\randomTeleport\command\SpawnCommand.class
+chipsonsky\randomTeleport\util\ChatUtil.class
